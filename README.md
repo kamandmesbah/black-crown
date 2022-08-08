@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> d6a8d0711e8513a0bc4917cf40c14c442a665d51
 
 In the project directory, you can run:
 
@@ -23,10 +20,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-<<<<<<< HEAD
-=======
+
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
@@ -40,4 +34,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> d6a8d0711e8513a0bc4917cf40c14c442a665d51
+
